@@ -26,13 +26,12 @@
 >![Captura de tela 2024-10-29 200636](https://github.com/user-attachments/assets/1a0eaeab-47e1-4165-9b40-ff3853af4b7e)
 >![Captura de tela 2024-10-29 200649](https://github.com/user-attachments/assets/373f2086-1c76-4d3b-b657-691816acc82f)
 
-
 ##  Design e Prototipagem
 > A interface do app foi criada usando **ConstraintLayout** para manter a responsividade em diferentes tamanhos de tela. 
 > O design é minimalista e fácil de usar, com foco na simplicidade.
 
 ## Telas do Aplicativo 1
-> **Tela Principal**
+> **Tela Principal:**
 > Na tela principal, o usuário insere: seu salário e escolhe qual o percentual (40%, 45% e 50%).
 > o app então exibe o salário reajustado com o novo aumento .
 
